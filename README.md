@@ -1,1 +1,6 @@
-"# Rock-Paper-Scissor" 
+# Rock-Paper-Scissor
+
+1- ADD HTML CODE
+2- ADD IMAGES FOLDERS
+3- ADD CSS CODE
+4- ADD SCRIPT CODE
